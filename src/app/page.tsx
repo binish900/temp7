@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import catagories from "@/app/catagories/page";
-import datails from "@/app/datails/page";
+
 import {
   Card,
   CardContent,
